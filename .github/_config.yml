@@ -1,7 +1,0 @@
-title: ForecastWAD
-description: Website deployed using GitHub Pages
-theme: jekyll-theme-primer
-url: "https://<Yesaswi9464>.github.io"
-baseurl: ""
-markdown: kramdown
-destination: _site
