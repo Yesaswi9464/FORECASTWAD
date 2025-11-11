@@ -4,4 +4,4 @@ theme: jekyll-theme-primer
 url: "https://<Yesaswi9464>.github.io"
 baseurl: ""
 markdown: kramdown
-destination: _site
+destination: ./docs
